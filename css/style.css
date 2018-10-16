@@ -1,0 +1,44 @@
+.logo{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+ .web{
+    color:orange;
+}
+
+.section-search input{
+    padding: 9px !important;
+    font-size: 25px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x{
+    margin: 10px 15px;
+}
+.section-follow .fa-facebook:hover{
+    background-color: #01579b;
+}
+
+.section-popular h4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
+
+.section-follow .fa-twitter:hover{
+    color: #90caf9;
+}
+
+.section-follow .fa-linkedin:hover{
+    background-color: #1e88e5 ;
+}
+
+.section-follow .fa-pinterest:hover{
+    color: red;
+}
+
+.section-follow .fa-google-plus:hover{
+    color: #f44336;
+}
